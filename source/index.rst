@@ -9,8 +9,10 @@ Welcome to MYi's BLOG's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
+
+   aboutme 
    how_to_be_a_rich_man
+
 
 
 
