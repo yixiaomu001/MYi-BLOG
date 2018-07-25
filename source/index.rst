@@ -12,8 +12,9 @@ Contents:
    :glob:
 
    aboutme 
+   bookmark
    chapters/*
-   how_to_be_a_rich_man
+   
 
 
 
