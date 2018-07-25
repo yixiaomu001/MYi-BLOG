@@ -5,12 +5,14 @@
 
 Welcome to MYi's BLOG's documentation!
 ======================================
+Contents:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
 
    aboutme 
+   chapters/*
    how_to_be_a_rich_man
 
 
