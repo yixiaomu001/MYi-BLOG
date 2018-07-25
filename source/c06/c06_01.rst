@@ -3,10 +3,10 @@
 
 该教程是笔者在做毕业设计是制作的一款天气插件，能够显示当前时间日期以及今日天气信息，在很多地方都可以用到。话不多说先上效果图：
 
-.. figure:: C:\Users\Administrator\Desktop\weather.jpg
-   :alt: weather
+.. figure:: https://thumbnail0.baidupcs.com/thumbnail/2c67286ac0cb5993646f327caf206b7f?fid=1866208915-250528-292730443370542&time=1532534400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-lYoQcRmZFgk5NyHu7E8yyFjJE0Y%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=4778071519597679143&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video
+   :alt: 插件预览
 
-   weather
+   插件预览
 
 开发环境：
 
