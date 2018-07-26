@@ -13,7 +13,7 @@ Python-基础知识思维导图大综合版
 学习Python的14张思维导图
 ------------------------
 
-https://mp.weixin.qq.com/s/4zgESqpzKppfmI4o0T52FQ
+阅读原文：https://mp.weixin.qq.com/s/4zgESqpzKppfmI4o0T52FQ
 
 该思维导图主要涵盖了Python编程的核心知识，按顺序依次展示了基础知识，数据类型（数字，字符串，列表，元组，字典，集合），条件&循环，文件对象，错误&异常，函数，模块一系列思维导图
 。思维导图默认阅读顺序：从右→左，顺时针方向。
@@ -21,8 +21,10 @@ https://mp.weixin.qq.com/s/4zgESqpzKppfmI4o0T52FQ
 十大经典排序算法
 ----------------
 
-https://mp.weixin.qq.com/s/MgqDp_VUO1MPtzziS47noQ
+阅读原文https://mp.weixin.qq.com/s/MgqDp_VUO1MPtzziS47noQ
 
 排序算法是《数据结构与算法》中最基本的算法之一
 ，这篇文章列举了插入排序、希尔排序、选择排序、冒泡排序、归并排序、快速排序、堆排序、基数排序等
 十大经典排序算法，并给出了各个算法的实现步骤、动图演示以及实现代码。
+
+`测试 <http://bbs.51cto.com/thread-1551981-1.html>`__
