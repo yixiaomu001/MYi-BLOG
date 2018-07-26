@@ -14,6 +14,7 @@ Contents:
    aboutme 
    bookmark
    chapters/*
+   articleread
    
 
 
