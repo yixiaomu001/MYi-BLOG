@@ -17,4 +17,4 @@ PyQt5ʵս
    :maxdepth: 1
    :glob:
 
-   ../pyqt5/*
+   ./pyqt5/*
