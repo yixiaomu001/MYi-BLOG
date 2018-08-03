@@ -143,6 +143,8 @@ Github
 -  `SM.MS - Simple Free Image Hosting <https://sm.ms>`__
 -  `集思会：一个电子书免费推送网站 <http://www.kindlepush.com/main>`__
 -  `书伴：教你如何玩转Kindle的网站 <https://bookfere.com/>`__
+-  `iLovePDF：为PDF爱好者提供的PDF在线转换工具 <https://www.ilovepdf.com/zh_cn>`__
+-  `iLoveIMG：图像文件在线编辑工具 <https://www.iloveimg.com/zh-cn>`__
 
 精品软件
 --------
